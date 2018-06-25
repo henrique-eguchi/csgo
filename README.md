@@ -1,7 +1,7 @@
 # csgo
 k3y config files for this awesome game!
 
-## Configs list
+## Configs
 
 - **[autoexec.cfg](autoexec.cfg) >** My main config file, it runs when cs initialize. It has some instructions in portuguese to help you modify the parameters if you want it.
 - **[demo.cfg](demo.cfg) >** My config file to study demos
