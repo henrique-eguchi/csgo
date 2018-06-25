@@ -7,7 +7,7 @@ k3y config files for this awesome game!
 - **[demo.cfg](demo.cfg) >** My config file to study demos
 - **[training.cfg](training.cfg) >** My training config file, I always use when I want to practice some smokes
 - **[guardian-awpcup_map2.cfg](guardian-awpcup_map2.cfg) >** Specific map awp_cup2 config file. To train like Guardian
-- **[bhop.cfg]
+- **[bhop.cfg](bhop.cfg) >** Config file to jump like an idiot x)
 
 ## rcon configs
 
